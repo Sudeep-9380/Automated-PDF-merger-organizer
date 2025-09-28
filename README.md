@@ -52,7 +52,7 @@ pdf_organizer/
 Follow these steps to run the project locally:
 
 1. Clone the repository
-git clone https://github.com/your-username/pdf_organizer.git
+git clone https://github.com/Sudeep-9380/pdf_organizer.git
 cd pdf_organizer
 
 2. Create and activate a virtual environment
